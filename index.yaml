@@ -3,12 +3,12 @@ entries:
   overseas-kubernetes-agent:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-15T15:43:40.2144242+02:00"
+    created: "2026-01-15T16:37:45.5747704+02:00"
     description: A Helm chart for Kubernetes
     digest: dbac5135fd8297c8c6b24519dd5409c58c1fc28a0b6c01209481a6eaa492641c
     name: overseas-kubernetes-agent
     type: application
     urls:
-    - https://overseasdev.github.io/helm-charts/overseas-kubernetes-agent-0.1.0.tgz
+    - https://overseas-org.github.io/helm-charts/overseas-kubernetes-agent-0.1.0.tgz
     version: 0.1.0
-generated: "2026-01-15T15:43:40.2042884+02:00"
+generated: "2026-01-15T16:37:45.5737182+02:00"
