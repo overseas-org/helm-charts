@@ -3,7 +3,17 @@ entries:
   overseas-kubernetes-agent:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-19T12:24:37.2504143+02:00"
+    created: "2026-01-19T13:06:17.9740153+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 091358892fd19e47c19b0742a3f390245e494216cc18dc50f544d847bcbf1627
+    name: overseas-kubernetes-agent
+    type: application
+    urls:
+    - https://overseas-org.github.io/helm-charts/overseas-kubernetes-agent-1.24.tgz
+    version: "1.24"
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-01-19T13:06:17.9724091+02:00"
     description: A Helm chart for Kubernetes
     digest: c5815d29e092f80f10fb02a0a43d370ee937d4238638a7aefbc56cb46a268d51
     name: overseas-kubernetes-agent
@@ -13,7 +23,7 @@ entries:
     version: "1.23"
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-19T12:24:37.2497408+02:00"
+    created: "2026-01-19T13:06:17.9708071+02:00"
     description: A Helm chart for Kubernetes
     digest: 64977d7018847298d7baf030638487b93e815eea020386666ee8ec8463565beb
     name: overseas-kubernetes-agent
@@ -23,7 +33,7 @@ entries:
     version: "1.22"
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-19T12:24:37.2509799+02:00"
+    created: "2026-01-19T13:06:17.9745316+02:00"
     description: A Helm chart for Kubernetes
     digest: fc88e6444beb77ad6798947b588c011f48aa8b0e16a6fe03bd172a7fb34feafb
     name: overseas-kubernetes-agent
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://overseas-org.github.io/helm-charts/overseas-kubernetes-agent-1.tgz
     version: "1"
-generated: "2026-01-19T12:24:37.2464454+02:00"
+generated: "2026-01-19T13:06:17.9674036+02:00"
